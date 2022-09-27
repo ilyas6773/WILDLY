@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿
 @using Microsoft.AspNet.Identity
+=======
+﻿@using Microsoft.AspNet.Identity
+>>>>>>> 46c90a47412645832e9c671619321554fb30b821
 @if (Request.IsAuthenticated) {
     using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" })) {
         @Html.AntiForgeryToken()
