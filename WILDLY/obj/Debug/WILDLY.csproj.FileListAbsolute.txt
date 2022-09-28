@@ -106,3 +106,5 @@ E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.csproj.CoreCompileInputs.cache
 E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.csproj.CopyComplete
 E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.dll
 E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.pdb
+E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.Migrations.InitialModel.resources
+E:\stuff\WILDLY\WILDLY\obj\Debug\WILDLY.csproj.GenerateResource.cache
